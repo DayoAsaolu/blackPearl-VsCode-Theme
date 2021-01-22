@@ -5,7 +5,7 @@
 
 A fine, intricate theme for Vs Code
 
-![theme preview](screenshot.png)
+![theme preview](https://raw.githubusercontent.com/DayoAsaolu/blackPearl-VsCode-Theme/master/screenshot.png)
 
 # Installation
 
