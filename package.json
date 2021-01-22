@@ -1,0 +1,52 @@
+{
+    "name": "delicate",
+    "displayName": "BlackPearl Theme",
+    "description": "a fine, intricate theme.",
+    
+    "author": {
+        "name":"Dayo Asaolu"
+    },
+    "publisher": "DayoAsaolu",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+
+    "license": "MIT",
+    "icon": "icon.png",
+    "keywords": [
+      "Black Pearl",
+      "delicate",
+      "fine",
+      "purle",
+      "green",
+      "yellow",
+      "purle",
+      "dark"
+    ],
+    "galleryBanner": {
+        "color": "#09131b",
+        "theme": "dark"
+    },
+
+    "repository": {
+      "url": "https://github.com/DayoAsaolu/delicate-VsCode-Theme.git",
+      "type": "git"
+    },
+    "bugs": {
+        "url": "https://github.com/DayoAsaolu/delicate-VsCode-Theme/issues"
+      },
+
+    "contributes": {
+        "themes": [
+            {
+                "label": "delicate theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/delicate theme-color-theme.json"
+            }
+        ]
+    }
+}
