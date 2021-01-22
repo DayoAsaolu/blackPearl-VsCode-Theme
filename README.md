@@ -6,7 +6,7 @@
 A fine, intricate theme for Vs Code
 
 ![theme preview](https://raw.githubusercontent.com/DayoAsaolu/blackPearl-VsCode-Theme/master/screenshot.png)
-
+![theme preview](https://raw.githubusercontent.com/DayoAsaolu/blackPearl-VsCode-Theme/master/screenshot1.png)
 # Installation
 
 1. Open the **Extensions** sidebar in VS Code. `View → Extensions`
