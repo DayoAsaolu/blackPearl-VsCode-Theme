@@ -5,6 +5,9 @@
 
 A fine, intricate theme for Vs Code
 
+## minor update - git modified file color and git untracked file color
+![theme preview](https://raw.githubusercontent.com/DayoAsaolu/blackPearl-VsCode-Theme/master/new.png)
+## -------------------------------------------------------
 ![theme preview](https://raw.githubusercontent.com/DayoAsaolu/blackPearl-VsCode-Theme/master/screenshot.png)
 ![theme preview](https://raw.githubusercontent.com/DayoAsaolu/blackPearl-VsCode-Theme/master/screenshot1.png)
 # Installation

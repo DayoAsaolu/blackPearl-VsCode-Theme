@@ -64,7 +64,9 @@
 		"editorGroupHeader.noTabsBackground": "#32374C",
 		"editorGroupHeader.tabsBackground": "#31364a",
 		"editorGroupHeader.tabsBorder": "#262A39",
-		"tab.activeBackground": "#d1e614",
+
+		"tab.activeBackground": "#d3e90e",
+		
 		"tab.activeForeground": "#000000",
 		"tab.border": "#272B3B",
 		"tab.activeBorder": "#392b26",
@@ -202,9 +204,9 @@
 		"welcomePage.buttonBackground": null,
 		"welcomePage.buttonHoverBackground": null,
 		"walkThrough.embeddedEditorBackground": "#232635",
-		"gitDecoration.modifiedResourceForeground": "#d3d155e6",
-		"gitDecoration.deletedResourceForeground": "#EF535090",
-		"gitDecoration.untrackedResourceForeground": "#a9c77dff",
+		"gitDecoration.modifiedResourceForeground": "#043cf3e6",
+		"gitDecoration.deletedResourceForeground": "#e91c1890",
+		"gitDecoration.untrackedResourceForeground": "#002280",
 		"gitDecoration.ignoredResourceForeground": "#69709890",
 		"gitDecoration.conflictingResourceForeground": "#FFEB95CC",
 		"editorLineNumber.foreground": "#7dc783",
